@@ -10,6 +10,7 @@ namespace helloSchool
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Oy m8");
         }
     }
 }
